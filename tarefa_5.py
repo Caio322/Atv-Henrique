@@ -8,4 +8,4 @@ try:
         numero_tarefa += 1 
  numero_tarefa + 1
 except FileNotFoundError :
-    print("Arquivo 'tarefas .txt ' não encontrado.Rode o exercicio 4 primeiro .")
+    print("Arquivo 'tarefas .txt' não encontrado.Rode o exercicio 4 primeiro .")
