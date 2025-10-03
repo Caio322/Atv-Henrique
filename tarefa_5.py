@@ -4,7 +4,7 @@ try:
     numero_tarefa = 1
     for tarefa in arquivo_tarefas :
 
-        print( f"{ numero_tarefa }. { tarefa.strip ()}")
+        print( f"{ numero_tarefa }) { tarefa.strip ()}")
         numero_tarefa += 1 
  numero_tarefa + 1
 except FileNotFoundError :
